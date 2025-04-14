@@ -20,7 +20,7 @@ const FilterBar = ({ filter, setFilter, resetFilters }) => {
                 <option value="">Filter by Status</option>
                 <option value="applied">Applied</option>
                 <option value="interview">Interview</option>
-                <option value="offer">Offer</option>
+                <option value="offered">Offered</option>
                 <option value="rejected">Rejected</option>
             </select>
             <input
